@@ -147,6 +147,7 @@ Please submit:
 3. System design documentation (PDF or Markdown)
 4. Brief note on time spent and approach
 
-**Send to:** via Google Form (time constrained)
-**Deadline:** You must complete the assessment within 4 hours of starting it
+**Send to:** [via Google Form provided (time constrained)]  
+**Deadline:** [You must complete the assessment within 4 hours of starting it]
+
 ---
