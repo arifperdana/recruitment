@@ -184,29 +184,6 @@ Please submit:
 3. System design documentation (PDF or Markdown)
 4. Brief note on time spent and approach
 
-**Send to:** [your email]  
-**Deadline:** [X days from assignment]
-
+**Send to:** via Google Form (time constrained)
+**Deadline:** You must complete the assessment within 4 hours of starting it
 ---
-
-## Questions?
-
-For technical clarifications, contact [tech lead email]. We're happy to clarify requirements but won't provide implementation guidance.
-
----
-
-## Success Indicators
-
-We're looking for candidates who can:
-- Design scalable systems with reasonable trade-offs
-- Write production-quality code
-- Communicate technical decisions clearly
-- Balance perfectionism with pragmatism
-- Think about real-world constraints (performance, maintenance, cost)
-- Consider privacy and security for sensitive health data
-
----
-
-## Compensation Note
-
-We value your time and expertise. Regardless of outcome, you'll receive [compensation amount] for completing this assessment.
