@@ -206,7 +206,7 @@ Create a brief document explaining:
 ## Submission Instructions
 
 **Send to:** [via Google Form provided (time constrained)]  
-**Deadline:** [You must complete the assessment within 4 hours of starting it]
+**Deadline:** [You must complete the assessment within 5 hours of starting it]
 
 Package all files together with clear naming:
 - `YourName_Research.pdf`
