@@ -79,43 +79,6 @@ Include:
 
 ---
 
-## Evaluation Criteria
-
-**System Design & Architecture (35%)**
-- Scalability considerations
-- Database design and data modeling
-- API design and REST principles
-- Separation of concerns
-
-**Code Quality (30%)**
-- Clean, readable, maintainable code
-- Appropriate design patterns
-- Error handling and edge cases
-- Following language best practices
-
-**Problem Solving (20%)**
-- Algorithm effectiveness
-- Performance considerations
-- Trade-off decisions
-
-**Testing & Documentation (15%)**
-- Test coverage and quality
-- Clear documentation
-- Easy to run and understand
-
----
-
-## Bonus Points (Optional)
-
-- Docker containerization
-- CI/CD configuration
-- Rate limiting implementation
-- Monitoring/logging strategy
-- Authentication/authorization
-- GraphQL instead of REST
-
----
-
 ## Sample Data Format
 
 ### Input Health Data Example:
