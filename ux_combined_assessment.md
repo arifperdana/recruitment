@@ -153,34 +153,6 @@ Create a brief document explaining:
 
 ---
 
-## Evaluation Criteria
-
-### Research & Analysis (30%)
-- Quality of insights from user data
-- Clarity and usefulness of personas
-- Strategic thinking about problem prioritization
-- Understanding of user needs
-
-### UX Design (35%)
-- User flow logic and completeness
-- Information architecture
-- Addressing core user problems
-- Consideration of edge cases and different scenarios
-
-### UI Design (20%)
-- Visual hierarchy and clarity
-- Usability and intuitiveness
-- Appropriate use of UI patterns
-- Accessibility considerations
-
-### Communication (15%)
-- Clear rationale for decisions
-- Integration of research into design
-- Quality of documentation
-- Professional presentation
-
----
-
 ## What to Submit
 
 1. **Research Analysis Document** (PDF or slides)
@@ -231,20 +203,10 @@ Create a brief document explaining:
 
 ---
 
-## Bonus Points (Optional)
-
-- Create a simple prototype with basic interactions
-- Design for a specific edge case (e.g., traveling, pharmacy integration)
-- Include an onboarding flow
-- Design for caregivers managing others' medications
-- Present findings in a stakeholder presentation format (5-7 slides)
-
----
-
 ## Submission Instructions
 
-**Send to:** [your email]  
-**Deadline:** [X days from assignment]
+**Send to:** [via Google Form provided (time constrained)]  
+**Deadline:** [You must complete the assessment within 4 hours of starting it]
 
 Package all files together with clear naming:
 - `YourName_Research.pdf`
@@ -252,56 +214,3 @@ Package all files together with clear naming:
 - `YourName_Process.pdf`
 
 ---
-
-## What We're Looking For
-
-Excellent candidates will demonstrate:
-
-**Research Skills:**
-- Analytical thinking and pattern recognition
-- User empathy and understanding diverse needs
-- Strategic prioritization
-- Data-driven decision making
-
-**Design Skills:**
-- User-centered design approach
-- Clear information architecture
-- Thoughtful interaction design
-- Visual communication
-
-**Integration:**
-- Seamless connection between research and design
-- Research insights directly informing design decisions
-- Holistic thinking about the user experience
-
-**Communication:**
-- Clear articulation of thinking
-- Well-structured documentation
-- Professional presentation
-- Ability to justify decisions
-
----
-
-## Questions?
-
-For clarifications, contact [your email]. We're happy to answer questions about the scenario or requirements, but won't provide design direction.
-
----
-
-## Compensation Note
-
-We value your time and expertise. Regardless of outcome, you'll receive [compensation amount] as a thank you for completing this comprehensive assessment.
-
----
-
-## Success Metrics Reference
-
-Consider how you would measure success:
-- Medication adherence rate (% of medications taken on time)
-- User engagement (daily active usage)
-- Error reduction (missed medications, duplicate doses)
-- User satisfaction (NPS, app store ratings)
-- Task completion time (how quickly users can log medications)
-- Support ticket reduction (fewer help requests)
-
-Your design should have a clear hypothesis about which metrics it will improve and why.
