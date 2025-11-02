@@ -162,17 +162,6 @@ GET /water-logs/today
 
 ---
 
-## Helpful Tips
-
-- Start simple and get it working first
-- Use a framework you're familiar with
-- Test your endpoints manually before writing tests
-- Include a `.gitignore` file
-- Comment your code where it helps understanding
-- It's okay to look up documentation!
-
----
-
 ## Submission Instructions
 
 Please submit:
@@ -180,41 +169,7 @@ Please submit:
 2. README with setup instructions
 3. Brief note on what you found challenging
 
-**Send to:** [your email]  
-**Deadline:** [X days from assignment]
+**Send to:** [via Google Form provided (time constrained)]  
+**Deadline:** [You must complete the assessment within 3 hours of starting it]
 
 ---
-
-## Questions?
-
-If anything is unclear, please reach out to [contact email]. We want you to succeed!
-
----
-
-## What We're Looking For
-
-We understand you're early in your career. We're evaluating:
-- Can you break down a problem into steps?
-- Can you write clean, working code?
-- Can you learn and use basic tools?
-- Can you follow requirements?
-- Can you communicate your work?
-
-Don't worry about perfection—we want to see your thought process and problem-solving approach!
-
----
-
-## Bonus (Optional - Don't Stress!)
-
-If you have extra time and want to show off:
-- Add input validation (amount must be positive, reasonable limits)
-- Include reminder logic (suggest water if user hasn't logged in X hours)
-- Add weekly statistics endpoint
-- Calculate hydration streaks (consecutive days meeting goal)
-- Write additional tests
-
----
-
-## Compensation Note
-
-Thank you for taking the time to complete this assessment. If you advance to the next round, we'll provide [gift card amount] as appreciation for your effort.
